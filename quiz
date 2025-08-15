@@ -1,0 +1,10 @@
+{ "Np": [
+        { "question": "Guess the autonomous province", "answer": ["Koshi"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Nepal-Quiz/refs/heads/main/NP1.png"},
+        { "question": "Guess the autonomous province", "answer": ["Madhesh"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Nepal-Quiz/refs/heads/main/NP2.png"},
+        { "question": "Guess the autonomous province", "answer": ["Bagmati"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Nepal-Quiz/refs/heads/main/NP3.png"},
+        { "question": "Guess the autonomous province", "answer": ["Gandaki"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Nepal-Quiz/refs/heads/main/NP4.png"},
+        { "question": "Guess the autonomous province", "answer": ["Lumbini"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Nepal-Quiz/refs/heads/main/NP5.png"},
+        { "question": "Guess the autonomous province", "answer": ["Karnali"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Nepal-Quiz/refs/heads/main/NP6.png"},
+        { "question": "Guess the autonomous province", "answer": ["Sudurpashchim"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Nepal-Quiz/refs/heads/main/NP7.png"}
+    ]
+}
